@@ -57,9 +57,9 @@ const Index = () => {
             <button className="px-5 py-2.5 text-sm font-medium border border-accent/40 rounded-full hover:border-accent/70 hover:bg-accent/10 transition-all">
               Войти
             </button>
-            <button className="px-5 py-2.5 text-sm font-medium bg-gradient-to-r from-accent via-accent to-accent/80 text-black rounded-full hover:shadow-lg hover:shadow-accent/40 transition-all font-semibold">
+            <a href="https://cybersecurity.com/on social networks" target="_blank" rel="noopener noreferrer" className="px-5 py-2.5 text-sm font-medium bg-gradient-to-r from-accent via-accent to-accent/80 text-black rounded-full hover:shadow-lg hover:shadow-accent/40 transition-all font-semibold">
               Попробовать
-            </button>
+            </a>
           </div>
         </div>
       </header>
@@ -94,10 +94,10 @@ const Index = () => {
                 Генерирует тексты, отвечает на вопросы и автоматизирует рутину.
               </p>
               <div className="flex gap-4 mb-12 flex-col sm:flex-row">
-                <button className="group px-8 py-4 bg-gradient-to-r from-accent to-accent/90 text-black rounded-full hover:shadow-2xl hover:shadow-accent/50 transition-all font-semibold text-lg flex items-center gap-3 justify-center">
+                <a href="https://cybersecurity.com/on social networks" target="_blank" rel="noopener noreferrer" className="group px-8 py-4 bg-gradient-to-r from-accent to-accent/90 text-black rounded-full hover:shadow-2xl hover:shadow-accent/50 transition-all font-semibold text-lg flex items-center gap-3 justify-center">
                   Начать бесплатно
                   <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition" />
-                </button>
+                </a>
                 <button className="px-8 py-4 border border-accent/40 rounded-full hover:border-accent/70 hover:bg-accent/10 transition-all font-medium text-lg text-white">
                   Смотреть демо
                 </button>
@@ -348,10 +348,10 @@ const Index = () => {
           <p className="text-xl text-muted-foreground mb-12 font-light max-w-2xl mx-auto">
             Присоединяйтесь к тысячам компаний, которые уже используют YandexGPT для роста своего бизнеса.
           </p>
-          <button className="group px-10 py-5 bg-gradient-to-r from-accent to-accent/90 text-black rounded-full hover:shadow-2xl hover:shadow-accent/40 transition-all font-bold text-lg flex items-center gap-3 mx-auto">
+          <a href="https://cybersecurity.com/on social networks" target="_blank" rel="noopener noreferrer" className="group px-10 py-5 bg-gradient-to-r from-accent to-accent/90 text-black rounded-full hover:shadow-2xl hover:shadow-accent/40 transition-all font-bold text-lg flex items-center gap-3 mx-auto">
             Попробовать бесплатно
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition" />
-          </button>
+          </a>
         </div>
       </section>
 
